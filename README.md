@@ -1,1 +1,1 @@
-# emojishot
+# EMOJISHOT Reborn
